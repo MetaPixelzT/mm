@@ -4141,11 +4141,11 @@
         {
          "columns":24,
          "firstgid":17564,
-         "image":"D:\/new 1\/4_5953800067918859941.png",
+         "image":"tilesets\/green.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
-         "name":"4_5953800067918859941",
+         "name":"green",
          "spacing":0,
          "tilecount":576,
          "tileheight":32,
